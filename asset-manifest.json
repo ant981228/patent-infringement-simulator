@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/patent-infringement-simulator/static/css/main.e6c13ad2.css",
+    "main.js": "/patent-infringement-simulator/static/js/main.fff25e0b.js",
+    "static/js/453.1e617a73.chunk.js": "/patent-infringement-simulator/static/js/453.1e617a73.chunk.js",
+    "index.html": "/patent-infringement-simulator/index.html",
+    "main.e6c13ad2.css.map": "/patent-infringement-simulator/static/css/main.e6c13ad2.css.map",
+    "main.fff25e0b.js.map": "/patent-infringement-simulator/static/js/main.fff25e0b.js.map",
+    "453.1e617a73.chunk.js.map": "/patent-infringement-simulator/static/js/453.1e617a73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.fff25e0b.js"
+  ]
+}
